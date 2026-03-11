@@ -6,6 +6,5 @@
 * avocado
 * lime
 * salt
-* Tomato
 ## Instrcutions
 
